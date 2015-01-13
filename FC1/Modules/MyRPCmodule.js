@@ -1,0 +1,1 @@
+﻿   exports.hello=function(){ return ds.Revenues.all().toArray("label,value"); }

@@ -1,0 +1,1 @@
+﻿ds.Revenues.all().toArray("label,value");//function getAll(){//return ds.Revenues.all().toArray("label,value");//}//function alertMe(){//alert("alert me from server!");//}
