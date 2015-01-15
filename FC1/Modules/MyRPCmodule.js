@@ -1,1 +1,1 @@
-﻿   exports.hello=function(){ return ds.Revenues.all().toArray("label,value"); }
+﻿   exports.hello=function(){ return ds.Revenues.all().toArray("label,value"); }// // exports.drugs1 = function () {//	return ds.Drugs.all().toArray("Drug_1");//	//}
